@@ -13,3 +13,21 @@
 [submodule "sudoku"]
 	path = sudoku
 	url = git@github.com:ivan-ristovic/sudoku.git
+[submodule "maze-pathfinder"]
+	path = maze-pathfinder
+	url = git@github.com:ivan-ristovic/maze-pathfinder.git
+[submodule "SpaceSharp"]
+	path = SpaceSharp
+	url = git@github.com:ivan-ristovic/SpaceSharp.git
+[submodule "epicyclez"]
+	path = epicyclez
+	url = git@github.com:ivan-ristovic/epicyclez.git
+[submodule "rubik"]
+	path = rubik
+	url = git@github.com:ivan-ristovic/rubik.git
+[submodule "gclc-of-life"]
+	path = gclc-of-life
+	url = git@github.com:ivan-ristovic/gclc-of-life.git
+[submodule "langton-ant"]
+	path = langton-ant
+	url = git@github.com:ivan-ristovic/langton-ant.git
