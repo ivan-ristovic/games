@@ -1,0 +1,15 @@
+[submodule "doodLbot"]
+	path = doodLbot
+	url = git@github.com:ivan-ristovic/doodLbot.git
+[submodule "Qteroids"]
+	path = Qteroids
+	url = git@github.com:ivan-ristovic/Qteroids.git
+[submodule "Spectrum"]
+	path = Spectrum
+	url = git@github.com:ivan-ristovic/Spectrum.git
+[submodule "mines"]
+	path = mines
+	url = git@github.com:ivan-ristovic/mines.git
+[submodule "sudoku"]
+	path = sudoku
+	url = git@github.com:ivan-ristovic/sudoku.git
